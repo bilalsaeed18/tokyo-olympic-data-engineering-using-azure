@@ -1,4 +1,4 @@
-# tokyo-olympic-data-engineering-using-azure
+# Tokyo-olympic-data-engineering-using-azure
 tokyo-olympic-azure-data-engineering-project
 
 Project Description: Tokyo Olympic Data Engineering Using Azure
